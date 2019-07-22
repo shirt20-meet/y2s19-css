@@ -1,1 +1,26 @@
+h1 {color: red}
+body {
+    background-color: white;
+    color: black;
+}
 
+.backgroundColor {
+	background-color: lightcoral;
+	text-align: center;
+	width: 300px;
+}
+
+#centerText{
+	text-align: center;
+}
+
+#leftUp{
+	position: absolute;
+	top: 0px;
+	left: 0px;
+}
+
+#center11{
+	position: relative;
+	left: 960px;
+}
